@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="4.2.1">Jekyll</generator>
+  
+  
+  <link href="/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-30T00:31:22+00:00</updated>
+  <id>//</id>
+
+  
+    <title type="html">hazz4rdus thoughts</title>
+  
+
+  
+    <subtitle>Blog</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">In the beginning…</title>
+      
+      
+      <link href="/2022/01/30/in-the-beginning/" rel="alternate" type="text/html" title="In the beginning..." />
+      
+      <published>2022-01-30T00:03:02+00:00</published>
+      <updated>2022-01-30T00:03:02+00:00</updated>
+      <id>/2022/01/30/in-the-beginning</id>
+      <content type="html" xml:base="/2022/01/30/in-the-beginning/">&lt;p&gt;…there was the blog and with it vague goals for writing.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="intro" />
+      
+
+      
+
+      
+        <summary type="html">…there was the blog and with it vague goals for writing.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>
